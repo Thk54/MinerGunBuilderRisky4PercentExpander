@@ -29,8 +29,13 @@ for x in range(riskyCount):
     options = RiskyItem(options)
 unique = list(set(options))
 unique.sort()
-for numb in unique:
-    print(f'{numb} x {options.count(numb)}')
+with open('RiskyResults.txt', 'w') as f:
+    f.write(f'Risky 4 Percent Count: {riskyCount}\n')
+    for numb in unique:
+        f.write(f'{numb} x {options.count(numb)}\n')
+    #print(Counter(options))
 #print(options)
 zzzzzergy = input('Return to end')
 #print(f'Sum of {a} and {b} is {sum(a, b)}')
+#    with open(filename, 'w') as f:
+#        f.writelines([','.join([items[x],str(prices[x]),str(quantities[x])])+"\n" for x in range(len(items))])

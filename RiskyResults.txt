@@ -1,0 +1,10 @@
+Risky 4 Percent Count: 0
+Plutonium Round Count: 5
+1 x 243 - % of total options: 7.776
+2.25 x 810 - % of total options: 25.919999999999998
+5.0625 x 1080 - % of total options: 34.56
+11.390625 x 720 - % of total options: 23.04
+25.62890625 x 240 - % of total options: 7.68
+57.6650390625 x 32 - % of total options: 1.024
+Total Possiblities: 3125
+Arithmetic Mean: 7.59375

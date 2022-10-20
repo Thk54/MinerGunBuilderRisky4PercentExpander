@@ -1,0 +1,41 @@
+Risky 4 Percent Count: 5
+Plutonium Round Count: 0
+0 x 122461 - % of total options: 32.98230777310642
+1 x 59049 - % of total options: 15.903612510874163
+2 x 32805 - % of total options: 8.835340283818978
+3 x 32805 - % of total options: 8.835340283818978
+4 x 40095 - % of total options: 10.798749235778752
+6 x 14580 - % of total options: 3.926817903919546
+8 x 15390 - % of total options: 4.144974454137299
+9 x 7290 - % of total options: 1.963408951959773
+12 x 17010 - % of total options: 4.581287554572803
+16 x 9765 - % of total options: 2.6299984109584615
+18 x 2430 - % of total options: 0.6544696506532577
+24 x 5040 - % of total options: 1.3574185346882381
+27 x 810 - % of total options: 0.21815655021775257
+32 x 2611 - % of total options: 0.7032182131093234
+36 x 2700 - % of total options: 0.7271885007258418
+48 x 2975 - % of total options: 0.8012539961701405
+54 x 180 - % of total options: 0.04847923338172279
+64 x 1085 - % of total options: 0.2922220456620513
+72 x 550 - % of total options: 0.1481309908885974
+81 x 45 - % of total options: 0.012119808345430697
+96 x 560 - % of total options: 0.15082428163202646
+108 x 190 - % of total options: 0.05117252412515183
+128 x 190 - % of total options: 0.05117252412515183
+144 x 300 - % of total options: 0.08079872230287131
+162 x 5 - % of total options: 0.0013466453717145218
+192 x 210 - % of total options: 0.05655910561200992
+216 x 20 - % of total options: 0.005386581486858087
+243 x 1 - % of total options: 0.0002693290743429044
+256 x 55 - % of total options: 0.014813099088859742
+288 x 30 - % of total options: 0.008079872230287131
+324 x 5 - % of total options: 0.0013466453717145218
+384 x 20 - % of total options: 0.005386581486858087
+432 x 10 - % of total options: 0.0026932907434290437
+512 x 5 - % of total options: 0.0013466453717145218
+576 x 10 - % of total options: 0.0026932907434290437
+768 x 5 - % of total options: 0.0013466453717145218
+1024 x 1 - % of total options: 0.0002693290743429044
+Total Possiblities: 371293
+Arithmetic Mean: 5.089156003479732
